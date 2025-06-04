@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1748982411032",
+      "email": "bisedokeh@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1748982413830",
+      "email": "gehicake@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1748982416502",
+      "email": "rolejyzata@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1748982419415",
+      "email": "lamyr@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1748982430973",
+      "email": "batal@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1749026045283",
+      "email": "cosifabo@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ]
+}
